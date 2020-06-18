@@ -1,0 +1,54 @@
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\Stick Hero.exe.config
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\Stick Hero.exe
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\Stick Hero.pdb
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.dll
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.SceneGraph.dll
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.WinForms.dll
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.pdb
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.xml
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.SceneGraph.pdb
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.SceneGraph.xml
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.WinForms.pdb
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.WinForms.xml
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.csprojResolveAssemblyReference.cache
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick_Hero.StickHero.resources
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick_Hero.Properties.Resources.resources
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.csproj.GenerateResource.Cache
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.exe
+c:\users\stakh\onedrive\documents\visual studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\Stick Hero.exe.config
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.exe
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\Stick Hero.exe
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\Stick Hero.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.dll
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.SceneGraph.dll
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.WinForms.dll
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.xml
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.SceneGraph.xml
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.WinForms.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\bin\Debug\SharpGL.WinForms.xml
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.csprojResolveAssemblyReference.cache
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick_Hero.StickHero.resources
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick_Hero.Properties.Resources.resources
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero\Stick Hero\obj\Debug\Stick Hero.csproj.GenerateResource.Cache
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\Stick Hero.exe.config
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\obj\Debug\Stick Hero.exe
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\obj\Debug\Stick Hero.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\Stick Hero.exe
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\Stick Hero.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.dll
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.SceneGraph.dll
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.WinForms.dll
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.xml
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.SceneGraph.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.SceneGraph.xml
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.WinForms.pdb
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\bin\Debug\SharpGL.WinForms.xml
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\obj\Debug\Stick Hero.csprojResolveAssemblyReference.cache
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\obj\Debug\Stick_Hero.StickHero.resources
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\obj\Debug\Stick_Hero.Properties.Resources.resources
+D:\Users\Stakh\OneDrive\Documents\Visual Studio 2015\Projects\Stick Hero Preview 5.0\Stick Hero\obj\Debug\Stick Hero.csproj.GenerateResource.Cache
